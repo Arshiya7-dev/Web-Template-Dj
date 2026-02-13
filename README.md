@@ -42,6 +42,17 @@ Perfect for showcasing music profiles, events, playlists, and visuals — **no f
 
 ## 📁 Folder Structure
 
+Web-Template-Dj/
+├── Screen/
+│ ├── preview-1.png
+│ ├── preview-2.png
+│ ├── preview-3.png
+│ └── preview-4.png
+├── css/
+│ └── style.css
+├── index.html
+└── README.md
+
 
 ---
 
