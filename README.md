@@ -1,30 +1,24 @@
 <h1 align="center">🎧 DJ Website Template</h1>
 
 <p align="center">
-  <a href="https://arshiya7-dev.github.io/Web-Template-Dj/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo‑Visit%20Now‑ff69b4?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  A stylish music & DJ landing page template built with pure HTML & CSS.
+  A stylish DJ & music landing page built with pure HTML & CSS.
 </p>
 
 ---
 
-## 📸 Preview
+## 🖼 Preview
 
-<div align="center">
-  <img src="S/preview-1.png" width="250" style="margin:5px;" />
-  <img src="S/preview-2.png" width="250" style="margin:5px;" />
-  <img src="S/preview-3.png" width="250" style="margin:5px;" />
-</div>
+<p align="center">
+  <img src="S/preview-1.png" width="600" style="margin:10px 0;" />
+  <img src="S/preview-2.png" width="600" style="margin:10px 0;" />
+  <img src="S/preview-3.png" width="600" style="margin:10px 0;" />
+</p>
 
 ---
 
 ## 📌 Description
 
-This is a simple **static DJ / Music website template** created using **only HTML5 and CSS3**.  
+This is a **simple static DJ / Music website template** created using **only HTML5 and CSS3**.  
 Perfect for showcasing music profiles, events, playlists, and visuals — **no frameworks used**.
 
 ---
@@ -38,11 +32,9 @@ Perfect for showcasing music profiles, events, playlists, and visuals — **no f
 
 ## 🚀 Live Demo
 
-Try the live version 👇
-
 <p align="center">
-  <a href="https://arshiya7-dev.github.io/Web-Template-Dj/" target="_blank">
-    <img src="https://img.shields.io/badge/👀%20Open%20Website‑Here‑blueviolet?style=for-the-badge&logo=github" />
+  <a href="https://arshiya7-dev.github.io/Web-Template-Dj/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/🎵%20Live%20Demo-Check%20It%20Out-ff4500?style=for-the-badge&logo=github" alt="Live Demo" />
   </a>
 </p>
 
@@ -53,13 +45,6 @@ Try the live version 👇
 
 ---
 
-## 📌 Notes
-
-⭐ This project is a **pure front‑end template** — no JavaScript or frameworks included.  
-🧩 You can use it as a base for your own DJ portfolio or music landing page.
-
----
-
 <p align="center">
-  Made with ❤️ by **Arshia**
+  Made with ❤️ by <strong>Arshia</strong>
 </p>
