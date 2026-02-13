@@ -34,7 +34,7 @@ Perfect for showcasing music profiles, events, playlists, and visuals — **no f
 
 <p align="center">
   <a href="https://arshiya7-dev.github.io/Web-Template-Dj/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/🎵%20Live%20Demo-Check%20It%20Out-ff4500?style=for-the-badge&logo=github" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/🎵%20Live%20Demo-Open%20Now-1abc9c?style=for-the-badge&logo=github" alt="Live Demo" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ Perfect for showcasing music profiles, events, playlists, and visuals — **no f
 ## 📁 Folder Structure
 
 Web-Template-Dj/
-├── Screen/
+├── S/
 │ ├── preview-1.png
 │ ├── preview-2.png
 │ ├── preview-3.png
